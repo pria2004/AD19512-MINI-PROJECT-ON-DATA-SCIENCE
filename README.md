@@ -1,4 +1,3 @@
-README.txt
 
 ------------------------------------------------------------
 Project Title: EnergyWise - Predicting Energy Consumption
